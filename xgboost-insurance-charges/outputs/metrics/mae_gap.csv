@@ -1,0 +1,3 @@
+Model,Train MAE,Test MAE,Gap (USD)
+Baseline,489.0,2846.0,2357.0
+Tuned,2313.0,2108.0,-206.0

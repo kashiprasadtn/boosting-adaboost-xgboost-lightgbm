@@ -1,0 +1,3 @@
+Model,Train MAPE (%),Test MAPE (%),Gap (points)
+Baseline,42.01,42.25,0.24
+Final,24.44,24.5,0.06

@@ -1,0 +1,4 @@
+group,n,mean_charges,MAE,median_abs_error
+Non-smoker,213,7931.0,2166.0,1543.0
+"Smoker, BMI < 30",25,22233.0,2130.0,1036.0
+"Smoker, BMI >= 30",30,41050.0,1676.0,1199.0

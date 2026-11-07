@@ -1,0 +1,6 @@
+,MAPE (%),RMSE,MAE,R2
+Single tree (depth 3),23.195,1388.604,803.47,0.876
+Final AdaBoost (depth-3 trees),24.497,1345.947,827.681,0.883
+"AdaBoost, depth-6 trees",16.986,903.242,551.832,0.947
+"AdaBoost, depth-10 trees",10.504,622.078,351.053,0.975
+"HistGradientBoosting, log-price",6.961,559.184,285.21,0.98

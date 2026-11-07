@@ -1,0 +1,4 @@
+,CV MAE (USD)
+"Linear, raw features","4,219 +/- 222"
+Linear + smoker x BMI terms,"2,351 +/- 155"
+Tuned XGBoost,"2,488 +/- 151"

@@ -1,0 +1,5 @@
+price,Price range (USD),Final AdaBoost MAPE (%),Final AdaBoost MAE (USD)
+Q1 (cheapest),335 - 942,28.8,162.0
+Q2,"943 - 2,425",23.9,367.0
+Q3,"2,427 - 5,277",26.4,1029.0
+Q4 (most expensive),"5,278 - 18,736",18.8,1754.0
