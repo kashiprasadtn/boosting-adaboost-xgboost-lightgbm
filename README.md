@@ -88,7 +88,7 @@ Open any notebook in a project's `notebooks/` folder and run all cells. Approxim
 - **Bank marketing:** a balanced 11,162-row sample of the UCI *Bank Marketing* dataset (Moro, Cortez & Rita, 2014).
 - All three were supplied through upGrad coursework and are included for educational, non-commercial use; see each original source for its terms.
 - **Starter notebooks** in each `starter/` folder are upGrad course material, kept unchanged for reference. The completed notebooks and all extensions are my own implementation.
-- Completed as part of the MS in Artificial Intelligence (Liverpool John Moores University, delivered via upGrad).
+- Coursework completed during my MS in Artificial Intelligence (Liverpool John Moores University, delivered via upGrad); published to GitHub in November 2026.
 
 ## Licence
 
